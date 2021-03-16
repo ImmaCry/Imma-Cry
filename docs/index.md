@@ -12,8 +12,8 @@
 ## Cool Peeps ##
 <center>
     <Footer>
-            <a href="">
-             Kaden (will put picture for you later)
+            <a href="Kaden-index.md">
+                 Kaden (will put picture for you later)
             </a>
     </Footer>
 
