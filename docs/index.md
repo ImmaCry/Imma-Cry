@@ -12,7 +12,7 @@
 ## Cool Peeps ##
 <center>
     <Footer>
-            <a href="https://immacry.github.io/Kaden/">
+            <a href="">
                  Kaden (will put picture for you later)
             </a>
     </Footer>
