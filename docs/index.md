@@ -11,10 +11,10 @@
 
 ## Cool Peeps ##
 </center>
-    <header>
-            <a href="https://immacry.github.io/Kaden/">
-                 Kaden (will put picture for you later)
-            </a>
-    </header>
+    <footer>
+            <a href="https://immacry.github.io/Kaden/">  Kaden (will put picture for you later) </a>
+            
+                
+  
 
    
