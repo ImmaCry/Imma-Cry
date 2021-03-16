@@ -1,15 +1,12 @@
-## ImmaCry
-
-
-<head>
-    <meta charset="UTF-8">
-
-</head>
-
+<center>
+    <header>
+        ImmaCry
+    </header>     
+</center>
 
 <center>
     <header>
-    <h1> Welcome! </h1>
+        <h1> Welcome! </h1>
         <h2>I hope you enjoy your stay.... </h2>
     </header>
 
