@@ -9,7 +9,7 @@
 
 
 
-## Cool Peeps
+## Cool Peeps ##
 <center>
     <Footer>
             <a href="">
