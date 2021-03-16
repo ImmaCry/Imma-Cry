@@ -11,9 +11,7 @@
 
 ## Cool Peeps ##
 </center>
-    <footer>
-            <a href="https://immacry.github.io/Kaden/">  Kaden (will put picture for you later) </a>
-            
+   <a href="https://immacry.github.io/Kaden/" title="Kaden">Kaden</a>
                 
   
 
