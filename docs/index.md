@@ -18,7 +18,7 @@
         <h1> Welcome! </h1>
         <h2>I hope you enjoy your stay.... </h2>
     </header>
- </html>
+
  
 ## Cool Peeps ##
 </center>
