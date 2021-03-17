@@ -1,7 +1,6 @@
 ## ImmaCry                                                                                 
 ## Praise The Sun God 
 
-# use me 
  <html>
     <button type="button">
         Log in!
