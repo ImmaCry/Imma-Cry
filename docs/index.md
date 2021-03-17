@@ -1,6 +1,7 @@
-## ImmaCry
+## ImmaCry                                                                                 
 ## Praise The Sun God 
-
+## Log In
+## sign Up
 <center>
     <header>
         <h1> Welcome! </h1>
